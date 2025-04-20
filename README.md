@@ -24,3 +24,49 @@ Explorar patrones de ventas, utilidad y volumen de productos, con el fin de iden
 
 ## 📁 Estructura del Proyecto
 
+---
+
+## 👀 Visualizaciones Incluidas
+
+- KPI's principales (Ventas, Utilidad, Cantidad)
+- Ventas por categoría y subcategoría
+- Top 10 productos más vendidos
+- Análisis por estado (mapa y tabla)
+- Visualización generada con Python (Seaborn)
+
+---
+
+## 🧭 Cómo navegar el dashboard
+
+- Usa los **filtros interactivos** (categoría, estado, fechas) para explorar los datos
+- Pasa el cursor sobre los gráficos para ver los detalles
+- Presiona el botón 🔄 **“Borrar filtros”** para reiniciar la vista
+- Recorre las páginas inferiores del tablero para ver cada sección:
+
+  1. **Visión General**
+  2. **Ventas por Categoría**
+  3. **Top Productos**
+  4. **Análisis por Región**
+  5. **Gráfico en Python**
+
+---
+
+## 📸 Capturas del Dashboard
+
+### 🔹 Visión General
+![Dashboard Main](images/dashboard_main.png)
+
+### 🔹 Top Productos
+![Top 10](images/top_products.png)
+
+---
+
+## 🧩 Integración con Python
+
+Se incluye una visualización generada desde un script Python embebido en Power BI.
+
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
