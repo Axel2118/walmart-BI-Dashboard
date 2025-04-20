@@ -54,7 +54,6 @@ Explorar patrones de ventas, utilidad y volumen de productos, con el fin de iden
 ## 📸 Capturas del Dashboard
 
 ### 🔹 Imagenes
-![Dashboard Main](images)
 
 https://github.com/Axel2118/walmart-BI-Dashboard/tree/main/IMAGES
 
