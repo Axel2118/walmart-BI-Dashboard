@@ -53,15 +53,10 @@ Explorar patrones de ventas, utilidad y volumen de productos, con el fin de iden
 
 ## 📸 Capturas del Dashboard
 
-### 🔹 Visión General
-![Dashboard Main](images/dashboard_main.png)
+### 🔹 Imagenes
+![Dashboard Main](images)
 
 https://github.com/Axel2118/walmart-BI-Dashboard/tree/main/IMAGES
-
-### 🔹 Top Productos
-![Top 10](images/top_products.png)
-
----
 
 ## 🧩 Integración con Python
 
