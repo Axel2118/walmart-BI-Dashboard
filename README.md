@@ -43,11 +43,11 @@ Explorar patrones de ventas, utilidad y volumen de productos, con el fin de iden
 - Presiona el botón 🔄 **“Borrar filtros”** para reiniciar la vista
 - Recorre las páginas inferiores del tablero para ver cada sección:
 
-  1. **Visión General**
-  2. **Ventas por Categoría**
-  3. **Top Productos**
-  4. **Análisis por Región**
-  5. **Gráfico en Python**
+  1. **Summary**
+  2. **Analysis by product and category**
+  3. **Analysis by state**
+  4. **Customer Analysis**
+  5. **Insight Outliers**
 
 ---
 
